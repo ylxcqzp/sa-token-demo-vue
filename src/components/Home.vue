@@ -15,7 +15,7 @@
         data() {
             return {
                 title: '主页',
-                test: 'hhhhhhh'
+                test: 'ghost'
             }
         },
         methods: {
