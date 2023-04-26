@@ -14,7 +14,8 @@
         name: "home",
         data() {
             return {
-                title: '主页'
+                title: '主页',
+                test: 'hhhhhhh'
             }
         },
         methods: {
